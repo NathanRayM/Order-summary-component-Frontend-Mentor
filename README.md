@@ -1,11 +1,11 @@
-![Order summary component]()
+![Order summary component](https://github.com/NathanRayM/Order-summary-component-Frontend-Mentor/blob/main/Order%20summary%20component%20SS.png)
 
 <h1 align="center">Order summary component</h1>
 
 <div align="center">
 
-[Live]()
-| [Solution]()
+[Live](https://nathanraym.github.io/Order-summary-component-Frontend-Mentor/)
+| [Solution](https://github.com/NathanRayM/Order-summary-component-Frontend-Mentor.git)
 | [Challenge](https://www.frontendmentor.io/challenges/order-summary-component-QlPmajDUj)
 
 Solution for a challenge from [frontendmentor.io](https://www.frontendmentor.io/)
