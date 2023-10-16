@@ -28,7 +28,7 @@ body{
 background-repeat: no-repeat;
 background-color: var(--Paleblue);
 background-size: contain; 
-background-position: 0px -40px;
+background-position: 0px -90px;
   
 
 }
@@ -52,6 +52,7 @@ background-position: 0px -40px;
   top: 38%;
   /*border: 2px solid green;*/
   height: 135px;
+  margin-top: 3px;
 }
 .info-heading{
   font-family: Red Hat Display;
@@ -82,7 +83,7 @@ justify-content: center;
   gap: 90px;
   /*border: 2px solid yellow;*/
   width: 80%;
-  height: 100px;
+  height: 98px;
   background-color: var(--Verypaleblue);
   border-radius: 10px;
 
@@ -111,7 +112,7 @@ justify-content: center;
 }
 .button-box{
   position: relative;
-  top: 45%;
+  top: 44.5%;
   display: flex;
   flex-direction: column;
   justify-content: center;
@@ -120,8 +121,8 @@ justify-content: center;
 }
 .button-one{
   width: 80%;
-  padding-top: 16px;
-  padding-bottom: 16px;
+  padding-top: 15px;
+  padding-bottom: 15px;
   background: var(--Brightblue);
   color: white;
   border: none;
